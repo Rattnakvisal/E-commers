@@ -2,7 +2,7 @@
 $servername = "localhost:3306"; // Adjust the port if necessary
 $username = "root";
 $password = "";
-$dbname = "e-commerce";
+$dbname = "e_commerce";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
